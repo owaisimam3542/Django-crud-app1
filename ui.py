@@ -1,1 +1,1 @@
-pythondkemdkwmdwkmdwmd
+print(0)
